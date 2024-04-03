@@ -43,16 +43,22 @@ export default function Weather() {
       <footer>
         <p>
           This project was coded by
-          <a href="#" target="_blank">
+          <a
+            href="https://teslimat-porfolio.netlify.app"
+            target="_blank"
+            rel="noreferrer">
             Teslimat Adeyemi
           </a>{" "}
           and is
-          <a href="#" target="_blank">
+          <a
+            href="https://github.com/Teslimat/weather-react-app"
+            target="_blank"
+            rel="noreferrer">
             {" "}
             on GitHub
           </a>{" "}
           and{" "}
-          <a href="#" target="_blank">
+          <a href="/" target="_blank" rel="noreferrer">
             hosted on Netlify
           </a>
         </p>
