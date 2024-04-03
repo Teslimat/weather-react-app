@@ -58,7 +58,10 @@ export default function Weather() {
             on GitHub
           </a>{" "}
           and{" "}
-          <a href="/" target="_blank" rel="noreferrer">
+          <a
+            href="https://curious-centaur-9833e4.netlify.app/"
+            target="_blank"
+            rel="noreferrer">
             hosted on Netlify
           </a>
         </p>
